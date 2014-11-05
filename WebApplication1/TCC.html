@@ -1,0 +1,302 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCC</title>
+    <meta name="description" content="Fullscreen Pageflip Layout with BookBlock" />
+    <meta name="keywords" content="fullscreen pageflip, booklet, layout, bookblock, jquery plugin, flipboard layout, sidebar menu" />
+    <meta name="author" content="Codrops" />
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
+    <link rel="stylesheet" type="text/css" href="css/bookblock.css" />
+    <link rel="stylesheet" type="text/css" href="css/custom.css" />
+    <link href="Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+    <script src="js/modernizr.custom.79639.js"></script>
+</head>
+<body>
+    <section id="ccr-site-title">
+        <div class="cont">
+            <div class="logo">
+                <a href="index.html" class="navbar-brand">
+                    <img src="img/logo.png" alt="Side Logo" />
+
+                </a>
+            </div> <!-- / .navbar-header -->
+
+        </div>	<!-- /.container -->
+    </section> <!-- / #ccr-site-title -->
+
+    <section id="ccr-nav-main">
+        <nav class="main-menu">
+            <div class="cont">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".ccr-nav-main">
+                        <i class="fa fa-bars"></i>
+                    </button> <!-- /.navbar-toggle -->
+                </div> <!-- / .navbar-header -->
+                <div class="collapse navbar-collapse ccr-nav-main">
+                    <ul class="nav navbar-nav">
+                        <li><a class="active" href="Default.aspx">PCA</a></li>
+                        <li class="dropdown">
+                            <a href="IBT.aspx">IBT <i class="fa fa-caret-down"></i></a>
+                            <ul class="sub-menu">
+                                <li><a href="blog.html">Blog 1</a></li>
+                                <li><a href="blog-2.html">Blog 2</a></li>
+                                <li><a href="blog-3.html">Blog 3</a></li>
+                            </ul><!-- /.sub-menu -->
+                        </li><!-- /.dropdown -->
+
+                        <li class="dropdown">
+                            <a href="TCC.aspx">TCC <i class="fa fa-caret-down"></i></a>
+                            <ul class="sub-menu">
+                                <li><a href="category-1.html">Category 1</a></li>
+                                <li><a href="category-2.html">Category 2</a></li>
+                                <li>
+                                    <a href="#">More <i class="fa fa-caret-right"></i></a>
+                                    <ul class="sub-menu-2">
+                                        <li><a href="#">Demo Link 1</a></li>
+                                        <li><a href="#">Demo Link 2</a></li>
+
+                                        <li>
+                                            <a href="#">More <i class="fa fa-caret-right"></i></a>
+                                            <ul class="sub-menu-3">
+                                                <li><a href="#">Demo Link 1</a></li>
+                                                <li><a href="#">Demo Link 2</a></li>
+                                                <li><a href="#">Demo Link 3</a></li>
+                                            </ul><!-- /.sub-menu-3 -->
+                                        </li>
+                                        <li><a href="#">Demo Link 3</a></li>
+                                    </ul><!-- /.sub-menu-2 -->
+                                </li>
+                            </ul><!-- /.sub-menu -->
+                        </li><!--  /.dropdown -->
+                        <li class="dropdown">
+                            <a href="graduandos.aspx">GRADUANDOS <i class="fa fa-caret-down"></i></a>
+                            <ul class="sub-menu">
+                                <li><a href="category-1.html">Category 1</a></li>
+                                <li><a href="category-2.html">Category 2</a></li>
+                                <li>
+                                    <a href="#">More <i class="fa fa-caret-right"></i></a>
+                                    <ul class="sub-menu-2">
+                                        <li><a href="#">Demo Link 1</a></li>
+                                        <li><a href="#">Demo Link 2</a></li>
+
+                                        <li>
+                                            <a href="#">More <i class="fa fa-caret-right"></i></a>
+                                            <ul class="sub-menu-3">
+                                                <li><a href="#">Demo Link 1</a></li>
+                                                <li><a href="#">Demo Link 2</a></li>
+                                                <li><a href="#">Demo Link 3</a></li>
+                                            </ul><!-- /.sub-menu-3 -->
+                                        </li>
+                                        <li><a href="#">Demo Link 3</a></li>
+                                    </ul><!-- /.sub-menu-2 -->
+                                </li>
+                            </ul><!-- /.sub-menu -->
+                        </li><!--  /.dropdown -->
+                        <li><a href="orientadores.aspx">ORIENTADOR</a></li>
+
+                    </ul> <!-- /  .nav -->
+                </div><!-- /  .collapse .navbar-collapse  -->
+                <div id="currentTime" class="pull-right current-time">
+
+
+                </div><!-- / #currentTime -->
+            </div>	<!-- /.container -->
+        </nav> <!-- /.main-menu -->
+    </section> <!-- / #ccr-nav-main -->
+
+    <div id="container" class="container">
+
+        <div class="menu-panel">
+            <h3>Sumário</h3>
+            <ul id="menu-toc" class="menu-toc">
+                <li class="menu-toc-current"><a href="#item1">Resumo</a></li>
+                <li><a href="#item2">Introdução</a></li>
+                <li><a href="#item3">Objetivos</a></li>
+                <li><a href="#item4">Materiais e Métodos</a></li>
+                <li><a href="#item5">Resultados/Discussão</a></li>
+                <li><a href="#item6">Conclusão</a></li>
+                <li><a href="#item7">Referências</a></li>
+            </ul>
+            
+        </div>
+
+        <div class="bb-custom-wrapper">
+            <div id="bb-bookblock" class="bb-bookblock">
+                <div class="bb-item" id="item1">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Resumo</h2>
+                            <p>Este trabalho tem como objetivo simplificar a dimensionalidade de um conjunto de dados em um conjunto de dados de menor dimensão perdendo pouca ou nenhuma qualidade da informação, e através disso relacionar dados aparentemente desconexos.  Utiliza-se para tal, um banco de informações que foram extraídas do PubMed, em que há a frequência de termos específicos (doenças, sintomas, causas) de cada abstract. Vamos estudar como os abstracts estão correlacionados usando a frequência das principais palavras que nele aparecem com o objetivo de auxiliar os profissionais de saúde. Para isso, aplicaremos dois métodos estatístico-matemáticos, o PCA (Principal Component Analysis) e IBM (The Information Bottleneck Method) que nos permitirão encontrar os possíveis agrupamentos dos dados que visualmente não possuem ligações.
+                            </p>
+
+                            <p>
+                                Esses agrupamentos ficarão visíveis ao término do processamento dos dados pelo PCA, uma técnica de análise multivariada, responsável por indicar os possíveis clusters ou conjuntos de dados que se relacionam. Os possíveis clusters são novamente processados através do método IBM, que analisará essas informações e iniciará o processamento dos dados, e por meio de cálculos estatísticos iterados retorna a quantidade ótima de clusters possíveis indicando quais as informações se relacionaram após as análises. Para isso, foi desenvolvido um sistema computacional que aplica os métodos acima citados para a análise dos dados e retorna de forma tabular e gráfica um resultado de saída. Vislumbrando esses métodos e aplicações nos dias atuais, encontra-se um grande potencial dos métodos aqui citados em aplicações voltadas ao Big Data e entrelaçamento de informações.
+                            </p>
+
+                 
+
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="bb-item" id="item2">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Introdução</h2>
+                            <p>Segundo dados da OMS 2013, (ORGANIZAÇÃO MUNDIAL DA SAÚDE, 2013) doenças crônicas matam aproximadamente 36 milhões de pessoas por ano em todo o mundo, já no Brasil  segundo dados do Ministério da Saúde, as mortes por condições crônicas correspondem a 72% das mortes.
+</p>
+
+                            <p>
+                                Algumas dessas doenças são herdadas pela Epignética que segundo Feinberg (2004) são modificações no genoma que são herdadas pela divisão celular, não tendo relação com mudanças na sequência do DNA.
+                            </p>
+
+                            <p>
+                                Neste estudo foi abordada a epigenética através de métodos matemáticos, estatísticos e computacionais para  relacionar doenças crônicas e fatores de risco em pacientes.
+
+                            </p>
+                                                        
+                        </div>
+                    </div>
+                </div>
+                <div class="bb-item" id="item3">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Objetivos</h2>
+                           <p>
+                               O objetivo fundamental deste trabalho foi encontrar relação entre doenças crônicas e outros fatores diagnosticados em pacientes através do uso de métodos matemáticos estatísticos-matemáticos como PCA (Análise da componente principal) e IBM (Information Bottleneck Theory).
+
+                           </p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="bb-item" id="item4">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Materiais e Métodos</h2>
+                            <p>
+                                Foram utilizados neste trabalho uma base de dados contendo termos  extraídos de 282 abstracts retirados da PUBMED. Os termos já estavam pré-classificados em número de documento, termo e frequência, classificação realizada  pelo trabalho da autora Juliana Tarossi Pollettini (2011). A partir desta classificação foi feita uma seleção dos termos que apresentavam frequência maior que 4(quatro).
+
+                            </p>
+
+                            <p>
+                                Com os novos dados selecionados foram aplicados dois métodos: PCA e IBM. O primeiro consiste em encontrar uma matriz de componentes  principais e partir dos cálculos encontrar similaridades  entre os documentos analisados. O segundo, chamado Information Bottleneck Method (IBM), foi aplicado para a confirmação dos resultados do PCA.  Este é um método variacional desenvolvido por  Tishby et al, cujo objetivo é comprimir a informação sem perda de relevância. Dadas as variáveis X(palavras), Y(documentos) e sua distribuição de probabilidade conjunta, a variável x deve ser comprimida dentro de T clusters, com perda mínima de relevância. Através da minimização de um funcional pode ser encontrada a configuração dos clusters, ou seja, como os documentos estão agrupados.
+                            </p>
+
+                            
+                    </div>
+                    </div>
+                </div>
+                <div class="bb-item" id="item5">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Resultados/Discussão</h2>
+                            <p>
+                                A figura 1  apresenta o gráfico obtido através do cálculo do PCA onde é possível verificar a formação de grupos através da proximidades dos resultados.Já nas figuras 2 e 3 onde foi utilizado o método IBM determinamos a quantidade de cluster e o β(Beta) que é respectivamente um multiplicador de Lagrange  utilizado para encontrar máximos e mínimos locais de uma função
+
+                            </p>
+
+                            <p>
+                                sujeita a restrição de igualdade, para a confirmação dos dados obtidos com o PCA e foi possível verificar que a partir de 4 clusters grupos de similaridades de documentos se formaram, o máximo de clusters possíveis foi 16.
+
+                            </p>
+                            
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <img src="img/chart.png" alt="" style="width:700px;" height="500"/>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="margin-left:50px;">
+                                            Figura 1. Resultados obtidos através do cálculo do PCA.
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="img/chart1.png" alt="" style="width:700px;" height="500" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="margin-left:50px;">
+                                            Figura 2. Confirmação dos resultados através do método IBM, utilizando 4 grupos.
+
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <img src="img/chart2.png" alt="" style="width:700px;" height="500" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="margin-left:50px;">
+                                            Figura 3. Mostra o método IBM formando 12 grupos de documentos
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            
+
+                           
+                        </div>
+                    </div>
+                </div>
+                    <div class="bb-item" id="item6">
+                        <div class="content">
+                            <div class="scroller">
+                                <h2>Conclusão</h2>
+
+                                <p>
+                                    Ao aplicar o PCA temos uma noção do grau de similaridade dos documentos, ou seja, como eles estão agrupados.  A confirmação da configuração dos clusters é obtida através da aplicação do método IBM. Para  um trabalho futuro poderemos realizar o cruzamento efetivo entre prontuários médicos e artigos científicos e desta maneira com base na literatura cientifica encontrar casos de  doenças crônicas herdadas epigenticamente.
+
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                <div class="bb-item" id="item7">
+                    <div class="content">
+                        <div class="scroller">
+                            <h2>Referências</h2>
+
+                            <p>
+                                Ao aplicar o PCA temos uma noção do grau de similaridade dos documentos, ou seja, como eles estão agrupados.  A confirmação da configuração dos clusters é obtida através da aplicação do método IBM. Para  um trabalho futuro poderemos realizar o cruzamento efetivo entre prontuários médicos e artigos científicos e desta maneira com base na literatura cientifica encontrar casos de  doenças crônicas herdadas epigenticamente.
+
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+           
+
+            <nav>
+                <span id="bb-nav-prev">&larr;</span>
+                <span id="bb-nav-next">&rarr;</span>
+            </nav>
+
+            <span id="tblcontents" class="menu-button">Sumário</span>
+
+        </div>
+
+    </div><!-- /container -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="js/jquery.mousewheel.js"></script>
+    <script src="js/jquery.jscrollpane.min.js"></script>
+    <script src="js/jquerypp.custom.js"></script>
+    <script src="js/jquery.bookblock.js"></script>
+    <script src="js/page.js"></script>
+    <script>
+        $(function () {
+
+            Page.init();
+
+        });
+    </script>
+</body>
+</html>

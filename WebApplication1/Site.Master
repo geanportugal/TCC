@@ -1,0 +1,148 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebApplication1.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="pt-br" class="no-js">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
+  
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>    
+    <form runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <section id="ccr-site-title">
+		<div class="cont">
+			<div class="logo">
+				<a href="index.html" class="navbar-brand">
+					<img src="img/logo.png" alt="Side Logo" />
+						
+				</a>
+			</div> <!-- / .navbar-header -->
+
+			
+
+		</div>	<!-- /.container -->
+	</section> <!-- / #ccr-site-title -->
+
+
+
+	<section id="ccr-nav-main">
+		<nav class="main-menu">
+			<div class="cont">
+
+				<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".ccr-nav-main">
+				            <i class="fa fa-bars"></i>
+			          	</button> <!-- /.navbar-toggle -->
+				</div> <!-- / .navbar-header -->
+
+				<div class="collapse navbar-collapse ccr-nav-main">
+					<ul class="nav navbar-nav">
+						<li><a class="active" href="Default.aspx">PCA</a></li>
+						<li class="dropdown">
+							<a href="IBT.aspx">IBT <i class="fa fa-caret-down"></i></a>
+							<ul class="sub-menu">
+					          	<li><a href="blog.html">Blog 1</a></li>
+					          	<li><a href="blog-2.html">Blog 2</a></li>
+							  	<li><a href="blog-3.html">Blog 3</a></li>
+					        </ul><!-- /.sub-menu -->
+						</li><!-- /.dropdown -->
+						
+						<li class="dropdown"><a href="TCC.html">TCC <i class="fa fa-caret-down"></i></a>
+							<ul class="sub-menu">
+								<li><a href="category-1.html">Category 1</a></li>
+								<li><a href="category-2.html">Category 2</a></li>
+								<li><a href="#">More <i class="fa fa-caret-right"></i></a>
+									<ul class="sub-menu-2">
+										<li><a href="#">Demo Link 1</a></li>
+										<li><a href="#">Demo Link 2</a></li>
+										
+										<li><a href="#">More <i class="fa fa-caret-right"></i></a>
+											<ul class="sub-menu-3">
+												<li><a href="#">Demo Link 1</a></li>
+												<li><a href="#">Demo Link 2</a></li>
+												<li><a href="#">Demo Link 3</a></li>
+											</ul><!-- /.sub-menu-3 -->
+										</li>
+										<li><a href="#">Demo Link 3</a></li>
+									</ul><!-- /.sub-menu-2 -->
+								</li>
+							</ul><!-- /.sub-menu -->
+						</li><!--  /.dropdown -->
+						<li class="dropdown"><a href="graduandos.aspx">GRADUANDOS <i class="fa fa-caret-down"></i></a>
+							<ul class="sub-menu">
+								<li><a href="category-1.html">Category 1</a></li>
+								<li><a href="category-2.html">Category 2</a></li>
+								<li><a href="#">More <i class="fa fa-caret-right"></i></a>
+									<ul class="sub-menu-2">
+										<li><a href="#">Demo Link 1</a></li>
+										<li><a href="#">Demo Link 2</a></li>
+										
+										<li><a href="#">More <i class="fa fa-caret-right"></i></a>
+											<ul class="sub-menu-3">
+												<li><a href="#">Demo Link 1</a></li>
+												<li><a href="#">Demo Link 2</a></li>
+												<li><a href="#">Demo Link 3</a></li>
+											</ul><!-- /.sub-menu-3 -->
+										</li>
+										<li><a href="#">Demo Link 3</a></li>
+									</ul><!-- /.sub-menu-2 -->
+								</li>
+							</ul><!-- /.sub-menu -->
+						</li><!--  /.dropdown -->
+						<li><a href="orientadores.aspx">ORIENTADOR</a></li>
+					
+					</ul> <!-- /  .nav -->
+				</div><!-- /  .collapse .navbar-collapse  -->
+
+				<div id="currentTime" class="pull-right current-time">
+					
+
+
+				</div><!-- / #currentTime -->
+
+			</div>	<!-- /.container -->
+		</nav> <!-- /.main-menu -->
+	</section> <!-- / #ccr-nav-main -->
+   
+        
+        <section id="ccr-main-section">
+            <div class="cont">
+            <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                <ContentTemplate>
+                   
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+                    </asp:ContentPlaceHolder>
+                    
+                </ContentTemplate>
+            </asp:UpdatePanel>
+        </div>
+            <div id="container" class="container">
+
+             <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+                <ContentTemplate>
+                   
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                    </asp:ContentPlaceHolder>
+                    
+                </ContentTemplate>
+            </asp:UpdatePanel>
+                </div>
+        <div class="clear">
+        </div>
+    </section>
+    <div class="footer">
+       
+        
+    </div>
+    </form>
+</body>
+</html>

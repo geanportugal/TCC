@@ -1,0 +1,83 @@
+C:\Users\F0801\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\F0801\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\F0801\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\F0801\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\F0801\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA\WebApplication1\bin\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA\WebApplication1\bin\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\F0801\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Fernando\Desktop\PCA\WebApplication1\bin\WebApplication1.dll
+C:\Users\Fernando\Desktop\PCA\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Fernando\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Fernando\Desktop\PCA\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA_V2-2014-09-01\PCA V2\WebApplication1\bin\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA_V2-2014-09-01\PCA V2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA_V2-2014-09-01\PCA V2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\F0801\Desktop\PCA_V2-2014-09-01\PCA V2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA_V2-2014-09-01\PCA V2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Fernando\Desktop\PCA_V3-2014-09-03\PCA V2\WebApplication1\bin\WebApplication1.dll
+C:\Users\Fernando\Desktop\PCA_V3-2014-09-03\PCA V2\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Fernando\Desktop\PCA_V3-2014-09-03\PCA V2\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\PCA_V3-2014-09-03\PCA V2\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Fernando\Desktop\PCA_V3-2014-09-03\PCA V2\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA V4\PCA V4\WebApplication1\bin\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA V4\PCA V4\WebApplication1\bin\WebApplication1.pdb
+C:\Users\F0801\Desktop\PCA V4\PCA V4\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\F0801\Desktop\PCA V4\PCA V4\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\F0801\Desktop\PCA V4\PCA V4\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.dll
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\uportge\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.dll
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Gean\Documents\Visual Studio 2013\Projects\PCA V5\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Projetos\TCC\WebApplication1\bin\WebApplication1.dll.config
+C:\Projetos\TCC\WebApplication1\bin\WebApplication1.dll
+C:\Projetos\TCC\WebApplication1\bin\WebApplication1.pdb
+C:\Projetos\TCC\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Projetos\TCC\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Projetos\TCC\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\matheus.tonetto\Desktop\TCC-master\TCC-master\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Fernando\Desktop\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\matheus.tonetto\Desktop\TCC-master - Copia\TCC-master - Copia\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Projetos\TCC-master\WebApplication1\bin\WebApplication1.dll.config
+C:\Projetos\TCC-master\WebApplication1\bin\WebApplication1.dll
+C:\Projetos\TCC-master\WebApplication1\bin\WebApplication1.pdb
+C:\Projetos\TCC-master\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Projetos\TCC-master\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Projetos\TCC-master\WebApplication1\obj\Debug\WebApplication1.pdb
